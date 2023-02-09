@@ -9,7 +9,7 @@
 
     #container{
 
-        background-image: url "../assets/img/fondo.jpg";
+        background-image: "../assets/img/fondo.jpg";
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         width: 100%;
         
